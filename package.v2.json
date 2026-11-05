@@ -1,0 +1,15 @@
+{
+  "chinesesubfinder": {
+    "name": "ChineseSubFinder",
+    "description": "整理入库时通知 ChineseSubFinder 下载字幕（内置中文影视剧多重过滤，杜绝误刮与死循环）。",
+    "labels": "字幕",
+    "version": "2.1",
+    "icon": "chinesesubfinder.png",
+    "author": "morningstar-ski",
+    "level": 1,
+    "history": {
+      "v2.1": "内置原始语言、路径和媒体分类多重智能过滤，杜绝中文影视剧误刮与LLM死循环",
+      "v2.0": "兼容MoviePilot V2"
+    }
+  }
+}
